@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17151744.svg)](https://doi.org/10.5281/zenodo.17151744)
+
+
 # Smart Spindle Health Monitoring System
 **A dual-approach spindle health monitoring solution — combining industrial-grade NI CompactRIO + LabVIEW control with a cost-effective Raspberry Pi platform for real-time vibration-based fault detection and predictive maintenance.**
 
